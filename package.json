@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-exercice",
+  "version": "1.0.0",
+  "description": "Commande exécutée pour importer le fichier `console_games.json` :",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanda89/mongodb-exercice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vanda89/mongodb-exercice/issues"
+  },
+  "homepage": "https://github.com/Vanda89/mongodb-exercice#readme",
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}
