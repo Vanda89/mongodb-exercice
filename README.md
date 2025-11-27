@@ -6,7 +6,7 @@ Commande exécutée pour importer le fichier `console_games.json` :
 
 ```bash
 mongoimport --db exercice --collection games --file "../data/console_games.json" --jsonArray
-
+```
 
 ## 2. Requêtes MongoDB
 
